@@ -695,7 +695,7 @@ A: Run: `python -c "import pandas, sklearn, plotly, jupyter; print('✅ All depe
 
 **Project Antyodaya** © 2026 | [MIT License](LICENSE)
 
-**Developed by**: Kunal Dwivedi & contributors
+**Developed by**: Team Contributors
 
 **Dataset**:  
 - CRS: Ministry of Registration, Government of India
